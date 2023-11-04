@@ -10,3 +10,4 @@
 - telescrope
 - treesitter
 - undotree
+- DelimitMate
