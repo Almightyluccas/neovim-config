@@ -3,7 +3,6 @@
 This is my personal Neovim setup, configured entirely in Lua. It's designed to be a fast, modern, and efficient environment for development, managed with `lazy.nvim`.
 
 ![Screenshot of Neovim setup](./screenshot.png)
-*(**Note**: You'll need to take a screenshot of your editor and add it to the repository as `screenshot.png` for this to display.)*
 
 ---
 
