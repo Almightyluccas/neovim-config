@@ -21,7 +21,7 @@ This is my personal Neovim setup, configured entirely in Lua. It's designed to b
 * **[trouble.nvim](https://github.com/folke/trouble.nvim)**: A dedicated, pretty UI for diagnostics, references, and other lists.
 * **Custom Colorscheme**: A personalized color theme for a comfortable viewing experience.
 * **[zen-mode.nvim](https://github.com/folke/zen-mode.nvim)**: Provides a distraction-free writing and coding environment.
-
+* **[Snacks.nvim](https://github.com/folke/snacks.nvim)**: Collecton of small QoL plugins.
 ### Editing & Development Experience
 * **[harpoon](https://github.com/ThePrimeagen/harpoon)**: Quickly mark and jump between important files.
 * **[undotree](https://github.com/mbbill/undotree)**: Visualizes your undo history as a tree, making it easy to navigate changes.
