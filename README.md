@@ -62,3 +62,4 @@ All keybindings for this configuration are defined in the `lua/luccas/remap.lua`
 To easily discover and search all custom mappings, this configuration includes a custom keymap viewer built with Telescope.
 * Press `<leader>?` (`Space` + `?`) in Normal mode to open it.
 * You can then start typing to filter by plugin, group, or description.
+
